@@ -1,4 +1,4 @@
-# go-tcnum
+# govknum
 Turkish Tax Number Validation
 
 ## Usage
